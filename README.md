@@ -10,7 +10,8 @@
 
 ## 배포 주소 🚀
 
-> **실 서버:** [https://igo.ai.kr](https://igo.ai.kr) <br>
+> **실 서버:** [https://igo.ai.kr](https://igo.ai.kr) -운영중단- <br>
+> **개발 서버:** [https://i-go.netlify.app](https://i-go.netlify.app/)) <br>
 
 ---
 
